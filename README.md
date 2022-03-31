@@ -13,3 +13,9 @@
 - The number of digits that are in the number and at the proper position are given in the green box.
 
 ### Your task is guessing the number in minimum number of steps !
+
+<br>
+
+[<img alt="download apk" width="200px" src="/app/src/main/res/drawable/download.png" />](https://github.com/fuadfmb/numbly-for-android/tree/master/app/build/outputs/apk/debug/numbly.apk)
+
+<!-- [Download apk file here](https://github.com/fuadfmb/numbly-for-android/tree/master/app/build/outputs/apk/debug/numbly.apk)  -->
